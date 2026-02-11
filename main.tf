@@ -4,6 +4,6 @@ resource "aws_instance" "demo_ec2" {
   instance_type = var.instance_type
 
   tags = {
-    Name = "Terraform-Github-EC2_examplg"
+    Name = "Terraform-Github-EC2_examplhh"
   }
 }
