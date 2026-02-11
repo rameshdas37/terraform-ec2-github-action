@@ -7,5 +7,5 @@ variable "instance_type" {
 }
 
 variable "ami_id" {
-  default = "ami-0f5ee92e2d63afc18" # Amazon Linux 2 (Mumbai region)
+  default = "ami-0c1fe732b5494dc14" # Amazon Linux 2 (Mumbai region)
 }
